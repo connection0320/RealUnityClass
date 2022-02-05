@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\RealUnityClass\UnityLesson_CSharp_Arrary\bin\Debug\net5.0\UnityLesson_CSharp_Arrary.exe
+C:\Users\User\Documents\GitHub\RealUnityClass\UnityLesson_CSharp_Arrary\bin\Debug\net5.0\UnityLesson_CSharp_Arrary.deps.json
+C:\Users\User\Documents\GitHub\RealUnityClass\UnityLesson_CSharp_Arrary\bin\Debug\net5.0\UnityLesson_CSharp_Arrary.runtimeconfig.json
+C:\Users\User\Documents\GitHub\RealUnityClass\UnityLesson_CSharp_Arrary\bin\Debug\net5.0\UnityLesson_CSharp_Arrary.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\RealUnityClass\UnityLesson_CSharp_Arrary\bin\Debug\net5.0\UnityLesson_CSharp_Arrary.dll
+C:\Users\User\Documents\GitHub\RealUnityClass\UnityLesson_CSharp_Arrary\bin\Debug\net5.0\ref\UnityLesson_CSharp_Arrary.dll
+C:\Users\User\Documents\GitHub\RealUnityClass\UnityLesson_CSharp_Arrary\bin\Debug\net5.0\UnityLesson_CSharp_Arrary.pdb
+C:\Users\User\Documents\GitHub\RealUnityClass\UnityLesson_CSharp_Arrary\obj\Debug\net5.0\UnityLesson_CSharp_Arrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\RealUnityClass\UnityLesson_CSharp_Arrary\obj\Debug\net5.0\UnityLesson_CSharp_Arrary.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\RealUnityClass\UnityLesson_CSharp_Arrary\obj\Debug\net5.0\UnityLesson_CSharp_Arrary.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\RealUnityClass\UnityLesson_CSharp_Arrary\obj\Debug\net5.0\UnityLesson_CSharp_Arrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\RealUnityClass\UnityLesson_CSharp_Arrary\obj\Debug\net5.0\UnityLesson_CSharp_Arrary.dll
+C:\Users\User\Documents\GitHub\RealUnityClass\UnityLesson_CSharp_Arrary\obj\Debug\net5.0\ref\UnityLesson_CSharp_Arrary.dll
+C:\Users\User\Documents\GitHub\RealUnityClass\UnityLesson_CSharp_Arrary\obj\Debug\net5.0\UnityLesson_CSharp_Arrary.pdb
+C:\Users\User\Documents\GitHub\RealUnityClass\UnityLesson_CSharp_Arrary\obj\Debug\net5.0\UnityLesson_CSharp_Arrary.genruntimeconfig.cache

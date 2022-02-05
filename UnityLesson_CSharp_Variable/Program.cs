@@ -22,7 +22,7 @@ namespace UnityLesson_CSharp_Variable
         // bool : 1 byte 논리
         char genderChar = 'a';
         // char : 2 byte 문자
-        string name = 'Taewoo';
+        string name = "Taewoo";
         // string : 문자갯수 * 2 byte 문자열
         // double : 8 byte 의 실수
         // long : 8 byte 의 정수

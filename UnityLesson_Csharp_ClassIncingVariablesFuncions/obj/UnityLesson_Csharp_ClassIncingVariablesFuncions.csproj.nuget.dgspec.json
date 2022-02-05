@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\새 폴더 (2)\\UnityLesson_CSharp\\UnityLesson_Csharp_ClassIncingVariablesFuncions\\UnityLesson_Csharp_ClassIncingVariablesFuncions.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\RealUnityClass\\UnityLesson_Csharp_ClassIncingVariablesFuncions\\UnityLesson_Csharp_ClassIncingVariablesFuncions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\새 폴더 (2)\\UnityLesson_CSharp\\UnityLesson_Csharp_ClassIncingVariablesFuncions\\UnityLesson_Csharp_ClassIncingVariablesFuncions.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\RealUnityClass\\UnityLesson_Csharp_ClassIncingVariablesFuncions\\UnityLesson_Csharp_ClassIncingVariablesFuncions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\새 폴더 (2)\\UnityLesson_CSharp\\UnityLesson_Csharp_ClassIncingVariablesFuncions\\UnityLesson_Csharp_ClassIncingVariablesFuncions.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\RealUnityClass\\UnityLesson_Csharp_ClassIncingVariablesFuncions\\UnityLesson_Csharp_ClassIncingVariablesFuncions.csproj",
         "projectName": "UnityLesson_Csharp_ClassIncingVariablesFuncions",
-        "projectPath": "C:\\Users\\User\\Desktop\\새 폴더 (2)\\UnityLesson_CSharp\\UnityLesson_Csharp_ClassIncingVariablesFuncions\\UnityLesson_Csharp_ClassIncingVariablesFuncions.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\RealUnityClass\\UnityLesson_Csharp_ClassIncingVariablesFuncions\\UnityLesson_Csharp_ClassIncingVariablesFuncions.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\새 폴더 (2)\\UnityLesson_CSharp\\UnityLesson_Csharp_ClassIncingVariablesFuncions\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\RealUnityClass\\UnityLesson_Csharp_ClassIncingVariablesFuncions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

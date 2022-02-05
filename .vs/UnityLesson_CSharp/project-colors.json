@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4d1358aa-92a8-4e1f-936e-ef0338c7190e": {
+      "ProjectGuid": "4d1358aa-92a8-4e1f-936e-ef0338c7190e",
+      "DisplayName": "UnityLesson_CSharp_if",
+      "ColorIndex": 0
+    },
+    "24b20006-948a-4699-ab01-dacb4f2f5d4c": {
+      "ProjectGuid": "24b20006-948a-4699-ab01-dacb4f2f5d4c",
+      "DisplayName": "UnityLesson_CSharp_instantiationExample1",
+      "ColorIndex": 1
+    },
+    "dcfbf02e-0631-421f-be3a-5d2b9d0fc22c": {
+      "ProjectGuid": "dcfbf02e-0631-421f-be3a-5d2b9d0fc22c",
+      "DisplayName": "UnityLesson_Csharp_ClassIncingVariablesFuncions",
+      "ColorIndex": 2
+    },
+    "587aaa3d-d6cd-4edc-aa5e-bcd7a065ccd1": {
+      "ProjectGuid": "587aaa3d-d6cd-4edc-aa5e-bcd7a065ccd1",
+      "DisplayName": "UnityLesson_CSharp_Method",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

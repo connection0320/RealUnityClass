@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\새 폴더 (2)\\UnityLesson_CSharp\\UnityLesson_CSharp_instantiationExample1\\UnityLesson_CSharp_instantiationExample1.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\RealUnityClass\\UnityLesson_CSharp_instantiationExample1\\UnityLesson_CSharp_instantiationExample1.csproj",
       "projectName": "UnityLesson_CSharp_instantiationExample1",
-      "projectPath": "C:\\Users\\User\\Desktop\\새 폴더 (2)\\UnityLesson_CSharp\\UnityLesson_CSharp_instantiationExample1\\UnityLesson_CSharp_instantiationExample1.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\RealUnityClass\\UnityLesson_CSharp_instantiationExample1\\UnityLesson_CSharp_instantiationExample1.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\새 폴더 (2)\\UnityLesson_CSharp\\UnityLesson_CSharp_instantiationExample1\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\RealUnityClass\\UnityLesson_CSharp_instantiationExample1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -23,6 +23,13 @@ namespace UnityLesson_CSharp_Operator
           {
             return a / b;
           }
+          // 만약 int가 아니라 실수인 float를 인자로 쓰고 싶다면?
+          // 오버라이딩(overriding) 기능을 사용하면 됨.
+          // 기존 함수를 그대로 가져다 쓰는 것
+          static public float 나누기(float a,float b)
+          {
+            return a / b;
+          }
           static public int 곱하기(int a,int b)
           {
             return a * b;
