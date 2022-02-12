@@ -13,3 +13,4 @@ C:\Users\User\Documents\GitHub\RealUnityClass\UnityLesson_CSharp_Collection\obj\
 C:\Users\User\Documents\GitHub\RealUnityClass\UnityLesson_CSharp_Collection\obj\Debug\net5.0\ref\UnityLesson_CSharp_Collection.dll
 C:\Users\User\Documents\GitHub\RealUnityClass\UnityLesson_CSharp_Collection\obj\Debug\net5.0\UnityLesson_CSharp_Collection.pdb
 C:\Users\User\Documents\GitHub\RealUnityClass\UnityLesson_CSharp_Collection\obj\Debug\net5.0\UnityLesson_CSharp_Collection.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\RealUnityClass\UnityLesson_CSharp_Collection\obj\Debug\net5.0\UnityLesson_CSharp_Collection.csproj.AssemblyReference.cache
