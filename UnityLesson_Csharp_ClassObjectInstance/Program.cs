@@ -25,7 +25,21 @@ namespace UnityLesson_Csharp_ClassObjectInstance
     // protected : 상속받은 클래스에서만 접근할 수가 있다. 
     // internal  : 같은 어셈블리 ( 같은 프로젝트 ) 에서만 접근할 수가 있다.
     // 기본적으로 접근제한자를 명시하지 않으면 private 이 디폴트.
-    public class AA
+    class AA
     {
+        public AA()
+        {
+
+        }
+        
+        public AA(int a)
+        {
+
+        }
+
+        ~AA()
+        {
+             
+        }
     }
 }

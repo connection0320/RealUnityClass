@@ -54,7 +54,7 @@ namespace UnityLesson_CSharp_EnumAndSwitchCase
                 warrior.Attack();
             }
             else if (createMotion == e_PlayerState.Jump)
-            {`
+            {
                 warrior.Jump();
             }
             else if (createMotion == e_PlayerState.Dash)
